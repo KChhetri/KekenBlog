@@ -1,0 +1,5 @@
+<h1>Home#index</h1>
+
+<%= @first_post.title %>
+
+<%= @posts[0].title %>
